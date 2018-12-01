@@ -2,7 +2,5 @@
 
 Switch between network cards
 
-You need Visual Basic 2010 or Visual Studio
-
 1. Download `HTST4GBICATADSLIVS.exe`
-2. Run `NetSwitcher.exe`
+2. Run `HTST4GBICATADSLIVS.exe`
